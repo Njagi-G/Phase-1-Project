@@ -1,0 +1,63 @@
+.navbar {
+    padding-inline: 0rem !important;
+    background-color: turquoise;
+}
+
+a {
+    color: green !important;
+    font-size: large !important;
+    font-weight: bolder !important;
+    margin-left: 1rem !important
+}
+.subtitle {
+    color: indigo;
+    font-weight: bolder;
+    
+}
+.btn {
+    background-color: blue !important;
+    font-size: larger !important;
+    font-weight: bolder !important;
+    color: gold !important;
+
+}
+
+.m-4 { 
+        width:100%;
+        text-align: center;
+        padding-left:150px;
+        padding-right:150px;
+        padding-top:5px;
+        text-align: center;
+        color: green;
+        input {
+            text-align: center;
+            color:black;
+        }  
+}
+
+.mb-3 {
+    background-color: lightyellow;
+    font-size: large;
+    font-weight: bold;
+}
+
+.card {
+    width: 18rem !important;
+}
+
+#delete {
+    background-color: red !important;
+}
+
+#editButton {
+    background-color: mediumturquoise !important
+}
+
+.card-img-top {
+    height: 300px;
+    object-fit: cover;
+    object-position: top;
+
+}
+

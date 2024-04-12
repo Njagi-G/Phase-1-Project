@@ -1,0 +1,54 @@
+{
+  "riders": [
+    {
+      "id": "9ced",
+      "registrationdate": "2024-04-12T13:04",
+      "profilephoto": "https://images.unsplash.com/photo-1614807536394-cd67bd4a634b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fGFmcmljYW4lMjBtZW4lMjBmYWNlc3xlbnwwfHwwfHx8MA%3D%3D",
+      "ridername": "Paolo Conte",
+      "age": "21",
+      "nationalID": "31653467",
+      "email": "paoloc@hotmail.com",
+      "mobilenumber": "0112456789",
+      "physicaladdress": "Roysambu, Nairobi",
+      "bikeplate": "KJUP 135P"
+    },
+    {
+      "id": "d7e0",
+      "registrationdate": "2024-04-12T13:07",
+      "profilephoto": "null",
+      "ridername": "Miley Travis",
+      "age": "null",
+      "nationalID": "39752345",
+      "email": "null",
+      "mobilenumber": "",
+      "physicaladdress": "Ngara, Nairobi",
+      "bikeplate": "KFGH 465M",
+      "updatePysicalAddress": "Ngara, Nairobi"
+    },
+    {
+      "id": "a405",
+      "registrationdate": "2024-04-12T13:12",
+      "profilephoto": "https://media.istockphoto.com/id/157604069/photo/young-motorcyclist-with-vintage-helmet.jpg?s=1024x1024&w=is&k=20&c=P2UKEhlnTyOblDkaYCTx3nFhQr2yrqCDeEZ2-tyf-T4=",
+      "ridername": null,
+      "age": "31",
+      "nationalID": "29876534",
+      "email": "raycharles@gmail.com",
+      "mobilenumber": "0112767654",
+      "physicaladdress": "Pangani, Nairobi",
+      "bikeplate": null
+    },
+    {
+      "id": "103b",
+      "registrationdate": "2024-04-12T20:51",
+      "profilephoto": null,
+      "ridername": null,
+      "age": null,
+      "nationalID": "46578989",
+      "email": null,
+      "mobilenumber": null,
+      "physicaladdress": "Tena Estate, Nairobi",
+      "bikeplate": null,
+      "updatePysicalAddress": null
+    }
+  ]
+}
