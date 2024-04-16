@@ -15,12 +15,12 @@
     {
       "id": "d7e0",
       "registrationdate": "2024-04-12T13:07",
-      "profilephoto": "null",
+      "profilephoto": "https://images.pexels.com/photos/7043173/pexels-photo-7043173.png?auto=compress&cs=tinysrgb&w=400",
       "ridername": "Miley Travis",
-      "age": "null",
+      "age": "45",
       "nationalID": "39752345",
-      "email": "null",
-      "mobilenumber": "",
+      "email": "mileyTrav@gmail.com",
+      "mobilenumber": "0112348909",
       "physicaladdress": "Ngara, Nairobi",
       "bikeplate": "KFGH 465M",
       "updatePysicalAddress": "Ngara, Nairobi"
@@ -29,26 +29,52 @@
       "id": "a405",
       "registrationdate": "2024-04-12T13:12",
       "profilephoto": "https://media.istockphoto.com/id/157604069/photo/young-motorcyclist-with-vintage-helmet.jpg?s=1024x1024&w=is&k=20&c=P2UKEhlnTyOblDkaYCTx3nFhQr2yrqCDeEZ2-tyf-T4=",
-      "ridername": null,
-      "age": "31",
+      "ridername": "Muddy Waters",
+      "age": "30",
       "nationalID": "29876534",
-      "email": "raycharles@gmail.com",
-      "mobilenumber": "0112767654",
+      "email": "mWaters@hotmail.com",
+      "mobilenumber": "0767342313",
       "physicaladdress": "Pangani, Nairobi",
-      "bikeplate": null
+      "bikeplate": "KLOP 486K",
+      "updatePysicalAddress": "Pangani, Nairobi"
     },
     {
       "id": "103b",
       "registrationdate": "2024-04-12T20:51",
-      "profilephoto": null,
-      "ridername": null,
-      "age": null,
+      "profilephoto": "https://media.istockphoto.com/id/1476466781/photo/close-up-middle-age-black-male-exercising-riding-bike-outdoors.webp?b=1&s=612x612&w=0&k=20&c=rrLhRt9J_oHUXQtTlbhaZB3J6K6FirLqCIqEdMNH_Bs=",
+      "ridername": "James Brown",
+      "age": "40",
       "nationalID": "46578989",
-      "email": null,
-      "mobilenumber": null,
+      "email": "jbrown@yahoo.com",
+      "mobilenumber": "0198756798",
       "physicaladdress": "Tena Estate, Nairobi",
-      "bikeplate": null,
-      "updatePysicalAddress": null
+      "bikeplate": "KJUY 100L",
+      "updatePysicalAddress": "Tena Estate, Nairobi"
+    },
+    {
+      "id": "3b00",
+      "registrationdate": "2024-04-16T16:13",
+      "profilephoto": "https://media.istockphoto.com/id/1467255996/photo/closeup-of-an-african-woman-talking-on-the-phone-standing-next-to-the-biker.jpg?s=1024x1024&w=is&k=20&c=J1TjVqeyVfBRVL36imJEYE75uPCnvPtg1K7y5LpSb-0=",
+      "ridername": "Louis Armstrong",
+      "age": "24",
+      "nationalID": "34651234",
+      "email": "larmstrong@yahoo.com",
+      "mobilenumber": "0198234578",
+      "physicaladdress": "Roasters, Thika Road, Nairobi",
+      "bikeplate": "KJOP 894T",
+      "updatePysicalAddress": "Roasters, Thika Road, Nairobi"
+    },
+    {
+      "id": "863a",
+      "registrationdate": "2024-04-16T16:19",
+      "profilephoto": "https://media.istockphoto.com/id/1399782821/photo/happy-biker-looking-at-you-with-two-thumbs-up-on-his-motorbike-outdoors-in-the-city.jpg?s=1024x1024&w=is&k=20&c=FsoG2YfYSSJrexnMonUxiisBejm7XA6yX0BpDo7PMoQ=",
+      "ridername": "Rick James",
+      "age": "29",
+      "nationalID": "34569876",
+      "email": "rickjames@gmail.com",
+      "mobilenumber": "0789651243",
+      "physicaladdress": "Githurai, Nairobi",
+      "bikeplate": "KMAT 826Y"
     }
   ]
 }
